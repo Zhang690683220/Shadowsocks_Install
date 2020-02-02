@@ -5,3 +5,8 @@ Shadowsocks配置文件可于ss_config.sh中进行修改
 
 
 使用说明
+(1) git clone https://github.com/Zhang690683220/Shadowsocks_Install.git
+(2) cd Shadowsocks_Install/
+(3) chmod 777 kernel_update.sh ss_confg.sh
+(4) ./kernel_update.sh
+(5) ./ss_confg.sh
