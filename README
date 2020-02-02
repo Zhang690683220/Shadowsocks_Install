@@ -1,0 +1,7 @@
+本脚本旨在提供Ubuntu 16.04下一键安装服务器端Shadowsocks，并提供BBR、TCP Fast Open以及吞吐量优化。
+不同于Ubuntu 16.04之前的教程，本文抛弃initd，转而使用Ubuntu 16.04支持的Systemd管理Shadowsocks的启动与停止，显得更为便捷。
+本脚本基于Python 3
+Shadowsocks配置文件可于ss_config.sh中进行修改
+
+
+使用说明
